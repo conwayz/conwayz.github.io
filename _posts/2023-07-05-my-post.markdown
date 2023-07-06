@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "my post"
+date:   2023-07-05 17:27:56 -0700
+categories: jekyll update
+---
+
+some math stuff
+
+$$
+\int_{-\infty}^{\infty} e^{-x^2} \, dx = \sqrt{\pi}
+$$
